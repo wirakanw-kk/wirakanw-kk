@@ -19,6 +19,9 @@ My work bridges low-level image processing, modern foundation vision models, and
 | **Data & Statistics**| pandas, seaborn, statsmodels (ANCOVA, Linear Mixed-Effects Models), LaTeX (IEEE) |
 | **DevOps & Infrastructure** | Docker, Linux, Git |
 
+### 🌱 Currently Learning & Exploring
+* ☁️ **Cloud Computing:** Azure Services (App Service, Azure Functions, Container Instances)
+* ♟️ **Systems Architecture:** Decoupling C# OOP applications with Python backends via REST APIs
 ---
 
 ## 🔬 Featured Projects & Research
@@ -31,27 +34,20 @@ My work bridges low-level image processing, modern foundation vision models, and
 * **LLM Evaluation Harness:** Implemented an automated **"LLM-as-a-judge"** framework using local Llama models via Ollama to evaluate hint response.
 * **Empirical Validation:** Executed advanced statistical modeling (ANCOVA & Linear Mixed-Effects) in Python to analyze intervention efficacy across student cohorts.
 
----
-
 ### 👁️ Medical Vision: Non-AI Glaucoma Screening via Optic Cup Segmentation
 * **Domain:** Biomedical Computer Vision & Retinal Image Processing
 * **Tech Stack:** Python, OpenCV, NumPy, SciPy
 * **Overview:** Engineered an computer vision pipeline to isolate the optic disc and optic cup in retinal fundus imagery without neural networks. Utilized adaptive thresholding, spatial feature extraction, and morphological operations to calculate the Cup-to-Disc Ratio (CDR) for rule-based risk screening.
 
----
 ### 🐾 Object Segmentation Tracking Pipeline
 * **Domain:** Video Processing & Modern Vision & Foundation Models
 * **Tech Stack:** Python, OpenCV, Meta SAM (Segment Anything Model)
 * **Overview:** Implemented a zero-shot image segmentation pipeline leveraging Meta's Segment Anything Model (SAM). Evaluated prompt-based spatial localization and mask generation techniques to segment complex visual objects without fine-tuning underlying network weights.
 
----
-
 ### 🖥️ Self-Hosted Infrastructure & Homelab
 > *Status: Under maitainace*
 
 * **Infrastructure:** Linux host configured with Docker containers and custom local storage paths.
-
----
 
 ### ♖ [Chess Engine](https://github.com/wirakanw-kk/trychess)
 > *Status: In development*
@@ -61,7 +57,6 @@ My work bridges low-level image processing, modern foundation vision models, and
   * C# board controller
   * Python move search
   * Inter-Process Communication
-
 ---
 
 ## 📫 Connect With Me
