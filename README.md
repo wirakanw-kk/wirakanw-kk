@@ -68,4 +68,4 @@ My work bridges low-level image processing, modern foundation vision models, and
 
 * [**LinkedIn**](https://www.linkedin.com/in/wirakan-wisitworaporn-m27815r/)
 * [**Email**](mailto:k.wirakanw@gmail.com)
-* **Portfolio / Resume:** Available upon request
+* **CV:** Available upon request
