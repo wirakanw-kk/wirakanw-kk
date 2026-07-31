@@ -29,10 +29,10 @@ My work bridges low-level image processing, modern foundation vision models, and
 ### 📄 Capstone: AI-Driven Learning Platform & Telemetry Pipeline
 > **Role:** Co-Author & Lead Engineer • *Status: Under Peer Review at IEEE TALE (2026)*
 
-* **Full-Stack Telemetry:** Built a real-time data collection backend connecting a Unity game client to Firebase/Firestore with secure user authentication and salted password hashing.
-* **Generative AI & RAG:** Designed a Retrieval-Augmented Generation (RAG) pipeline to dynamically synthesize personalized questions for student interventions.
+* **Full-Stack Telemetry:** Built a real-time data collection backend connecting a Unity game client to Firebase/Firestore with secure user authentication and password hashing.
+* **Generative AI & RAG:** Designed a Retrieval-Augmented Generation (RAG) pipeline to dynamically synthesize personalized questions for students.
 * **LLM Evaluation Harness:** Implemented an automated **"LLM-as-a-judge"** framework using local Llama models via Ollama to evaluate hint response.
-* **Empirical Validation:** Executed advanced statistical modeling (ANCOVA & Linear Mixed-Effects) in Python to analyze intervention efficacy across student cohorts.
+* **Empirical Validation:** Executed advanced statistical modeling (ANCOVA & Linear Mixed-Effects) in Python to analyze intervention outcome.
 
 ### 👁️ Medical Vision: Non-AI Glaucoma Screening via Optic Cup Segmentation
 * **Domain:** Biomedical Computer Vision & Retinal Image Processing
