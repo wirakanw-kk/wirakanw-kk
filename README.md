@@ -5,7 +5,7 @@ I'm Kiki. I'm a **Software & AI Systems Engineer** focusing on building computer
 My work bridges low-level image processing, modern foundation vision models, and end-to-end data pipelines along with statistical validation.
 
 * 🎓 **Academic Focus:** Freshly graduate biomedical engineer in a job search.
-* 📝 **Research:** Co-author on an AI-focused game educational intervention paper currently under peer review at IEEE TALE 2026.
+* 📝 **Research:** Co-author on an AI-focused game educational intervention paper.
 ---
 
 ## 🛠️ Technical Stack & Tools
