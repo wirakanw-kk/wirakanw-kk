@@ -27,7 +27,7 @@ My work bridges low-level image processing, modern foundation vision models, and
 ## 🔬 Featured Projects & Research
 
 ### 📄 Capstone: AI-Driven Learning Platform & Telemetry Pipeline
-> **Role:** Co-Author & Lead Engineer • *Status: Under Peer Review at IEEE TALE (2026)*
+> **Role:** Co-Author & Lead Engineer • *Status: Accepted for TALE 2026*
 
 * **Full-Stack Telemetry:** Built a real-time data collection backend connecting a Unity game client to Firebase/Firestore with secure user authentication and password hashing.
 * **Generative AI & RAG:** Designed a Retrieval-Augmented Generation (RAG) pipeline to dynamically synthesize personalized questions for students.
